@@ -1,0 +1,15 @@
+{
+    "snapshot" : {
+        "repos" : "test.com/repositories/snapshots",
+        "userid" : "id",
+        "passwd" : "1234"
+    },
+    "release" : {
+        "repos" : "test.com/repositories/release",
+        "userid" : "id",
+        "passwd" : "5678"
+    },
+    "component" : {
+        "test" : "test.com"
+    }
+}
